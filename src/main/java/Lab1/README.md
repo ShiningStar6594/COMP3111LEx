@@ -17,3 +17,4 @@ This exercise walks through:
 - Pushing to a remote GitHub repository
 
 ## Required Screenshot
+![Screenshot](MarkDown.png)
